@@ -1,9 +1,6 @@
-## Assignment update on (post request)
+## Assignment update on patch, update, delete
+# on file "routes\entries.js"
+- patch -> update existing data from the database
+- get/id -> fetch single item by specific id
+- delete -> delete single item from the database by id
 
-# client side
-- src/component/hero_components/AvailableBudget.jsx
-- src/component/hero_components/TotalExpense.jsx
-- src/component/hero_components/TotalIncome.jsx
-
-# server side
-- routes/budget.js
